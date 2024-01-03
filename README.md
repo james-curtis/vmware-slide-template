@@ -1,0 +1,1 @@
+# vmware-slide-template
