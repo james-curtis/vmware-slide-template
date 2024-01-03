@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<cp:coreProperties
+  xmlns:cp="http://schemas.openxmlformats.org/package/2006/metadata/core-properties"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:dcmitype="http://purl.org/dc/dcmitype/"
+  xmlns:dcterms="http://purl.org/dc/terms/"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+><dc:title>PowerPoint Presentation</dc:title><dc:creator
+  >win</dc:creator><cp:lastModifiedBy>win</cp:lastModifiedBy><cp:revision
+  >9</cp:revision><dcterms:created
+    xsi:type="dcterms:W3CDTF"
+  >2024-01-03T07:50:20Z</dcterms:created><dcterms:modified
+    xsi:type="dcterms:W3CDTF"
+  >2024-01-03T09:20:56Z</dcterms:modified></cp:coreProperties>
