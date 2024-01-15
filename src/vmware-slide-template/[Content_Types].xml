@@ -23,6 +23,21 @@
     ContentType="application/vnd.openxmlformats-officedocument.presentationml.slide+xml"
     PartName="/ppt/slides/slide2.xml"
   /><Override
+    ContentType="application/vnd.openxmlformats-officedocument.presentationml.slide+xml"
+    PartName="/ppt/slides/slide3.xml"
+  /><Override
+    ContentType="application/vnd.openxmlformats-officedocument.presentationml.slide+xml"
+    PartName="/ppt/slides/slide4.xml"
+  /><Override
+    ContentType="application/vnd.openxmlformats-officedocument.presentationml.slide+xml"
+    PartName="/ppt/slides/slide5.xml"
+  /><Override
+    ContentType="application/vnd.openxmlformats-officedocument.presentationml.slide+xml"
+    PartName="/ppt/slides/slide6.xml"
+  /><Override
+    ContentType="application/vnd.openxmlformats-officedocument.presentationml.slide+xml"
+    PartName="/ppt/slides/slide7.xml"
+  /><Override
     ContentType="application/vnd.openxmlformats-officedocument.presentationml.presProps+xml"
     PartName="/ppt/presProps.xml"
   /><Override

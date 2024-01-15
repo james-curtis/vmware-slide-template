@@ -3,9 +3,9 @@
   xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
   xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main"
   xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
-><p:clrMru><a:srgbClr val="717074" /><a:srgbClr val="0191D8" /><a:srgbClr
-      val="76BD20"
-    /></p:clrMru><p:extLst><p:ext
+><p:clrMru><a:srgbClr val="1A428A" /><a:srgbClr val="717074" /><a:srgbClr
+      val="0191D8"
+    /><a:srgbClr val="76BD20" /></p:clrMru><p:extLst><p:ext
       uri="{E76CE94A-603C-4142-B9EB-6D1370010A27}"
     ><p14:discardImageEditData
         xmlns:p14="http://schemas.microsoft.com/office/powerpoint/2010/main"
